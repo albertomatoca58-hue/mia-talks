@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mia Talks</string>
+    <string name="home_greeting">Hey! I\'m Mia! 👋</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_chat">Chat</string>
+    <string name="nav_lessons">Lessons</string>
+    <string name="nav_quiz">Quiz</string>
+</resources>

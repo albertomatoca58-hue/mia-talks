@@ -1,0 +1,6 @@
+{
+  "name": "Mia Talks",
+  "description": "A fun English learning chat app for teens in Angola featuring Mia, interactive lessons, quizzes, XP, and streaks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
