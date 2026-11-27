@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Mia Talks</title>
+<style>
+body{font-family:sans-serif;text-align:center;padding:50px;background:#fff5f8}
+h1{color:#ff2e88;font-size:40px}
+a{display:inline-block;background:#ff2e88;color:white;padding:15px 30px;border-radius:30px;text-decoration:none;font-weight:bold}
+</style>
+</head>
+<body>
+<h1>Mia Talks 💬</h1>
+<p>Conversas reais, sem filtros.</p>
+<a href="#">Começar agora</a>
+</body>
+</html>
